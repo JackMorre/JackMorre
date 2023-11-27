@@ -1,4 +1,10 @@
-### Hi there 👋
+### Jack Morrell 👋
+
+**`💻 Frontend Developer by day, Dungeon Master by night ♟️`**
+
+![Plotting](image.png)
+
+I'm a simple guy who like to code simple unique website and also craft fun story for my friends to be involved in. Alot of the time, my creativity spills into every part of my life. Giving everything I work on a little bit of Jack flare. You gotta leave your mark, you know.
 
 <!--
 **JackMorre/JackMorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
